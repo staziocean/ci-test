@@ -1,5 +1,5 @@
 package ci;
 
-public class JeanLuc {
+public interface JeanLuc {
 
 }
